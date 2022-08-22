@@ -1,0 +1,12 @@
+C:\Dev\C_SharpSample\C_SharpSampleLib\bin\Debug\net5.0\C_SharpSampleLib.deps.json
+C:\Dev\C_SharpSample\C_SharpSampleLib\bin\Debug\net5.0\C_SharpSampleLib.dll
+C:\Dev\C_SharpSample\C_SharpSampleLib\bin\Debug\net5.0\ref\C_SharpSampleLib.dll
+C:\Dev\C_SharpSample\C_SharpSampleLib\bin\Debug\net5.0\C_SharpSampleLib.pdb
+C:\Dev\C_SharpSample\C_SharpSampleLib\obj\Debug\net5.0\C_SharpSampleLib.csproj.AssemblyReference.cache
+C:\Dev\C_SharpSample\C_SharpSampleLib\obj\Debug\net5.0\C_SharpSampleLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C_SharpSample\C_SharpSampleLib\obj\Debug\net5.0\C_SharpSampleLib.AssemblyInfoInputs.cache
+C:\Dev\C_SharpSample\C_SharpSampleLib\obj\Debug\net5.0\C_SharpSampleLib.AssemblyInfo.cs
+C:\Dev\C_SharpSample\C_SharpSampleLib\obj\Debug\net5.0\C_SharpSampleLib.csproj.CoreCompileInputs.cache
+C:\Dev\C_SharpSample\C_SharpSampleLib\obj\Debug\net5.0\C_SharpSampleLib.dll
+C:\Dev\C_SharpSample\C_SharpSampleLib\obj\Debug\net5.0\ref\C_SharpSampleLib.dll
+C:\Dev\C_SharpSample\C_SharpSampleLib\obj\Debug\net5.0\C_SharpSampleLib.pdb
